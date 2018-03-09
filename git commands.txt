@@ -1,0 +1,18 @@
+ssh-keygen --> generates public and private keys of user-->copy public key(id_rsa.pub) to github
+git init --> git intilization
+git clone <repo_url> --> copy of remote repository to your local
+git status --> Status of current files 
+git add . --> To add all files in current directory
+git commit -m "message" --> commit files
+git push origin <name_of_branch> --> To push files to remote repository
+git branch <name_of_branch> --> To create new branch
+git branch -a --> To list all branches 
+git checkout <name_of_branch> --> To switch to new branch
+git pull --> To pull files from remote repository
+git remote -v --> Shows remote repository
+.gitignore --> Is used to protect sensitive files 
+
+##############################################
+
+cd .\local_repos\ --> to go local repository
+mv <from_file_location> <to_file_location>
