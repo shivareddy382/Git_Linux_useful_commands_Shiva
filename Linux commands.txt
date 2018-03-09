@@ -1,15 +1,1 @@
- 54.210.85.166
-
-ls
-
-ls -l
-
-ls -a
-
-ls -r
-
-ls -lh
-
-ls -s
-
-ls -t
+Hi how are you
